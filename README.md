@@ -1674,7 +1674,7 @@ LONDON+@:5P/APTR/50/PROP1/SEG-RAIL2/E/CO-FR/CODE-FRDHP/TYPE-2C
 @:5P/APTR/57/PROP1/SEG-RAIL2/NAME-PARIS MONTPARNASSE 2
 PASTEUR+@:5P/APTR/43/PROP1/SEG-RAIL2/CURR-EUR/VAL-250.00+@:5P/APTR/29/PROP1/SEG-RAIL2/DUR-/+@:5P/APTR/35/PROP1/SEG-RAIL2/TRN-6/WAG-8
 
-# Remark separatorS
+# REMARK SEPARATORS
 
 Remark entries use a single forward slash between fields but may also
 contain a double forward slash for long remark content.
