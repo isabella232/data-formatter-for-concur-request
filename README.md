@@ -86,6 +86,8 @@ N.B. This document uses Apollo remark examples only.
 
 ## General Tab completion flow
 
+<img src="./media/Picture1.png" style="width:7.28358in;height:3.36112in" />
+
 ## General Tab screenshot example
 
 <img src="./media/image3.png" style="width:7.28358in;height:3.36112in" />
@@ -214,6 +216,7 @@ This is where you complete the details for a single or return air
 segment.
 
 ### Air Tab completion flow for one-way
+<img src="./media/Picture2.png" style="width:7.28358in;height:3.36112in" />
 
 ### Air Tab one-way screenshot example
 
@@ -403,6 +406,8 @@ segment.
 </table>
 
 ## Air Tab completion flow for round trip
+
+<img src="./media/Picture3.png" style="width:7.28358in;height:3.36112in" />
 
 ## Air Tab round trip screenshot examples
 
@@ -690,6 +695,8 @@ segment should be added.
 
 ## Car Tab completion flow
 
+<img src="./media/Picture4.png" style="width:7.28358in;height:3.36112in" />
+
 ## Car Tab screenshot example
 
 <img src="./media/image7.png" style="width:6.69375in;height:2.95237in" />
@@ -939,6 +946,8 @@ are added.
 
 ## Hotel Tab completion flow
 
+<img src="./media/Picture5.png" style="width:7.28358in;height:3.36112in" />
+
 ## Hotel Tab screenshot example
 
 <img src="./media/image8.png" style="width:6.67164in;height:2.64976in" />
@@ -1138,6 +1147,8 @@ are added.
 This is where all the details regarding the rail segment are added.
 
 ## Rail Tab completion flow for one-way rail
+
+<img src="./media/Picture6.png" style="width:7.28358in;height:3.36112in" />
 
 ## Rail Tab one-way screenshot example
 
@@ -1349,6 +1360,8 @@ This is where all the details regarding the rail segment are added.
 </table>
 
 ## Rail Tab completion flow for round trip rail
+
+<img src="./media/Picture7.png" style="width:7.28358in;height:3.36112in" />
 
 ***  
 ***
