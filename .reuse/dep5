@@ -24,10 +24,11 @@ Disclaimer: The code in this project may include calls to APIs (“API Calls”)
  you any rights to use or access any SAP External Product, or provide any third
  parties the right to use of access any SAP External Product, through API Calls.
 
-#data-formatter-for-concur-request code
-Files: dataformatterforconcurrequestv2.12.2.html
-Copyright:  2020-2021 SAP SE or an SAP affiliate company and Data-formatter-for-concur-request contributors
-License: Apache-2.0 and MIT
-Comment: these files contain content from SAP and jquery3 , jquery UI minimal files embedded in the code.
+Files: *
+Copyright: 2020-2021 SAP SE or an SAP affiliate company and Data-formatter-for-concur-request contributors
+License: Apache-2.0
 
-
+Files: dataformatterforconcurrequest*.html
+Copyright: 2020-2021 SAP SE or an SAP affiliate company and Data-formatter-for-concur-request contributors, contains code by the OpenJS Foundation and other contributors, https://openjsf.org/
+License: Apache-2.0 AND MIT
+Comment: these files contain content from SAP and jquery3, jquery UI minimal files embedded in the code.
