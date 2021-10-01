@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: Data-formatter-for-concur-request
-Upstream-Contact: <YOUR-CONTACT (MAIL ADDRESS ETC.)>
+Upstream-Contact: SAP Concur AP Notifications <sapcnqrapnotifications@sap.com>
 Source: https://github.com/SAP/data-formatter-for-concur-request
 Disclaimer: The code in this project may include calls to APIs (“API Calls”) of
  SAP or third-party products or services developed outside of this project
@@ -28,6 +28,6 @@ Disclaimer: The code in this project may include calls to APIs (“API Calls”)
 Files: dataformatterforconcurrequestv2.12.2.html
 Copyright:  2020-2021 SAP SE or an SAP affiliate company and Data-formatter-for-concur-request contributors
 License: Apache-2.0 and MIT
-Comment: these files contain content from SAP and jquery 3 , jquery UI minimal files embedded in the code.
+Comment: these files contain content from SAP and jquery3 , jquery UI minimal files embedded in the code.
 
 
