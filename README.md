@@ -4,7 +4,7 @@
 
 This repository contains [an HTML file](dataformatterforconcurrequest.html) that has been created to assist TMCs with documenting proposals back to a GDS Container PNR as part of the Agency Proposal Powered by Compleat flow.
 
-This file will ensure accuracy when entering the remark lines into the GDS Container PNR and help provide all the mandatory elements to Travel Request
+This file helps the TMC ensure accuracy when entering remark lines data into the GDS Container PNR in order to provide these mandatory elements to Travel Request
 
 ## Requirements and Documentation
 
