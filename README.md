@@ -1,5 +1,7 @@
 # Data Formatter for Concur Request
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP/data-formatter-for-concur-request)](https://api.reuse.software/info/github.com/SAP/data-formatter-for-concur-request)
+
 ## Description
 
 This repository contains [an HTML file](dataformatterforconcurrequest.html) that has been created to assist TMCs with documenting proposals back to a GDS Container PNR as part of the Agency Proposal Powered by Compleat flow.
